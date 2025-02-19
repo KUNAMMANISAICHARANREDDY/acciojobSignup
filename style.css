@@ -1,0 +1,63 @@
+*{
+    background-color: black;
+    
+    color: rgba(255, 255, 255, 1);
+   
+}
+.heading
+{
+    margin:100px 50px 30px 100px;
+    font-size: medium;
+}
+
+input {
+    border: none;
+    outline: none;   
+    width: 300px; 
+    height: 30px;  
+    padding: 3px; 
+    font-weight: 500; 
+  }
+  
+  input::-webkit-input-placeholder { /* Chrome/Edge/Safari */
+    color:rgba(255, 255, 255, 1);
+    font-size: larger;
+
+  }
+  
+  .radioo
+  {
+    display: flex;
+    flex-direction: row;
+  }
+  input 
+  {
+    margin-right: 10px;
+  }
+input[type="radio"]
+ {
+    width: 16px;
+    height: 16px;
+margin: 20px 7px;
+   
+ }
+button
+{
+    margin:30px 0px;
+    width: 100px;
+    height: 20px;
+    color: pink;;
+    background-color: white;
+}
+  input[type="checkbox"]
+ {
+    width: 16px;
+
+    height: 16px;
+ }
+
+
+
+  
+  
+  
