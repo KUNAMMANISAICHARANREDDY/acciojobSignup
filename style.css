@@ -45,7 +45,7 @@ button
 {
     margin:30px 0px;
     width: 100px;
-    height: 20px;
+    height: 30px;
     background-color: white;
 }
 .but{
@@ -57,6 +57,10 @@ button
     width: 16px;
 
     height: 16px;
+ }
+ span
+ {
+    margin-right: 50px;
  }
 
 
